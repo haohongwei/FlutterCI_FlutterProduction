@@ -1,1 +1,12 @@
 
+iOS和Flutter混合工程的产物
+
+具体可以参考https://www.jianshu.com/u/a3ae8888a19a
+
+Debug文件夹是Debug模式下的Flutter工程的编译产物
+
+Release文件夹是Release模式下的Flutter工程的编译产物
+
+不过由于产物中Flutter.frameweok的体积太大，github暂不支持直接上传超过100M的文件，
+
+因此需要使用git-lfs，来更新和下载产物。具体使用方式可以查看：https://git-lfs.github.com。
